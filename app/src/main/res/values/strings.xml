@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CarsApp</string>
+    <string name="Text_view_Maker">Maker</string>
+    <string name="Text_view_Model">Model</string>
+    <string name="Text_view_Year">Year</string>
+    <string name="Text_view_Color">Color</string>
+    <string name="Text_view_Seats">Seats</string>
+    <string name="Text_view_Price">Price</string>
+    <string name="Button">Add New Car</string>
+    <string name="got_car">We added a new car</string>
+    <string name="Pre_file_key">PRE_FILE_KEY</string>
+    <string name="option_1">Clear Fields</string>
+    <string name="option_2">Clear All List</string>
+    <string name="option_3">List All Items</string>
+    <string name="Nav_1">Add  Car</string>
+    <string name="Nav_2">Remove Last Car</string>
+    <string name="Nav_3">Remove All Cars</string>
+    <string name="Nav_Open">Nav_Open</string>
+    <string name="Nav_Close">Nav_Close</string>
+    <string name="add_a_new_car">add a new Car</string>
+    <string name="cardList_file">CARD_LIST_FILE</string>
+    <string name="CARD_LIST_KEY">CARD_LIST_KEY</string>
+    <string name="list_all_items">List All Items</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="hint_login">Enter your email</string>
+    <string name="hint_enter_password">Enter password</string>
+
+</resources>

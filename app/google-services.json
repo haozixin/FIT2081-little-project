@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318702986188",
+    "project_id": "fit2081-week8-cars",
+    "storage_bucket": "fit2081-week8-cars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318702986188:android:db340f41bd6f56819db369",
+        "android_client_info": {
+          "package_name": "com.example.carsapp_week2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318702986188-euh7mi8gfgrbe05qi61rr3cohgfj859k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjvZ1yAP8xvlEyoPPCEY9Ct9k58V3GYXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318702986188-euh7mi8gfgrbe05qi61rr3cohgfj859k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
